@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>97841976-A221-4A7F-B3BD-DAAC2071987A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>623897454E96EA6406BA9D3FB8B5D6BF4A84393E</key>
+		<string>https://github.com/zhangjihm/AppleSampleCode_OC2Swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LocateMe_Swift/LocateMe_Swift.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>623897454E96EA6406BA9D3FB8B5D6BF4A84393E</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/zhangjihm/AppleSampleCode_OC2Swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>623897454E96EA6406BA9D3FB8B5D6BF4A84393E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>623897454E96EA6406BA9D3FB8B5D6BF4A84393E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>AppleSampleCode_OC2Swift</string>
+		</dict>
+	</array>
+</dict>
+</plist>
